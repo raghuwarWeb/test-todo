@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'my-open-sans';
+  src: url('../public/fonts/OpenSans-Regular.ttf');
+}
+
+html{
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  font-family: 'my-open-sans';
+  background-image: url('../public/assets/pexels-toni-cuenca-585752.jpg');
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
